@@ -191,6 +191,6 @@ This file is plain text, contains no credential values (only variable names), an
 
 ## Author
 
-**Raj** &nbsp;|&nbsp; rajwantmishra@gmail.com
+**Raj** &nbsp;|&nbsp; 
 
 > *Scripts use only the Python standard library. No pip install required.*
